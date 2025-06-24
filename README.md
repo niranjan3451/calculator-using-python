@@ -3,7 +3,7 @@ it's a scientific calculator using python.It will consist a  graphical user inte
 
 An advanced Calculator implemented in Python Programming Language using Tkinter Module.
 
-Project Title : "Scientic-Calculator"
+Project Title : "Scientific-Calculator"
 
 Operations Available = 1. Addition 
                        2. Substraction 
